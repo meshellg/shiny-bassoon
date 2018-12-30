@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Tiny Human House"
 theme = "purehugo"
 Paginate = 10
 disqusShortname = "xxxx"
@@ -8,6 +8,5 @@ disqusShortname = "xxxx"
 [params]
   twitterName = "mdgee"
   githubName = "meshellg"
-  stackOverflowId = "#######"
   description = "mom blog for moms"
   google_analytics = "UA-xxxxxx-xx"
