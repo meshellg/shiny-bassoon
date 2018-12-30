@@ -6,7 +6,6 @@ layout: post
 link: http://tinyhuman.house/2018/10/11/field-trips-with-friends/
 slug: field-trips-with-friends
 title: Field-trips with Friends
-wordpress_id: 261
 ---
 
 
@@ -40,7 +39,7 @@ I met my partner at his office, picked up the small human, and we went back to C
 
 
 
-The kiddo was a hit at the polling area, and was excited to participate in a process we've talked about a bit. There was also a Daniel Tiger episode about voting for swings or a slide, and voting for a class pet ( a bunny or a turtle ) so the process of selection has been touched on in a variety of ways already. 
+The kiddo was a hit at the polling area, and was excited to participate in a process we've talked about a bit. There was also a Daniel Tiger episode about voting for swings or a slide, and voting for a class pet ( a bunny or a turtle ) so the process of selection has been touched on in a variety of ways already.
 
 
 
@@ -64,7 +63,7 @@ A friend met us with their kiddo, and we got to watch a Lacrosse demonstration f
 
 
 
-And my favourite part of the day - watching our kids play together. 
+And my favourite part of the day - watching our kids play together.
 
 
 
@@ -79,12 +78,3 @@ And my favourite part of the day - watching our kids play together.
 
 
 There is nothing better than that. 
-
-
-
-
-
-
-
-
-

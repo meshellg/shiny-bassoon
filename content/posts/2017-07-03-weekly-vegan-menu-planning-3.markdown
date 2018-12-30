@@ -1,14 +1,13 @@
 ---
 author: meshell
-comments: true
+comments: false
 date: 2017-07-03 01:08:13+00:00
 layout: post
 link: http://tinyhuman.house/2017/07/03/weekly-vegan-menu-planning-3/
 slug: weekly-vegan-menu-planning-3
 title: 'Weekly Vegan Menu Planning #3 -'
-wordpress_id: 111
 categories:
-- "Sunday Meal Planning"
+- "MealPlanning"
 ---
 
 I started my planning process earlier this time around, so there is no scramble to make a plan and also it gave a little time to go along and comment on the week as things happened.

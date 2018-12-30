@@ -6,19 +6,10 @@ layout: post
 link: http://tinyhuman.house/2018/10/10/a-forest-school-day/
 slug: a-forest-school-day
 title: A Forest School Day
-wordpress_id: 254
 categories:
-- Forest School
+- ForestSchool
 - Learning
-tags:
-- books about fall
-- early education
-- high park
-- home preschool
 ---
-
-
-
 
 This morning after my partner left for work, we quickly got ready to get outside and go to the forest nearby. We're lucky to hour our little forest, and I feel grateful to say things like "let's visit our trees" on a regular basis. 
 
@@ -136,7 +127,7 @@ We read Lois Ehlert's "[Red Leaf, Yellow Leaf](https://www.amazon.ca/Red-Leaf-Ye
 
 
 
-We have a really lovely book about why leaves change colour appropriately called.... ["Why Do Leaves Change Colour"](https://amzn.to/2IQgRkJ) (by Besty Maestro) which of course, I haven't been able to find in the house yet this fall. 
+We have a really lovely book about why leaves change colour appropriately called.... ["Why Do Leaves Change Colour"](https://amzn.to/2IQgRkJ) (by Besty Maestro) which of course, I haven't been able to find in the house yet this fall.
 
 
 
@@ -187,6 +178,3 @@ We walked back around, up a very tall staircase, around the High Park [children'
 
 
 It was a lovely morning of hiking, learning, and fun.
-
-
-

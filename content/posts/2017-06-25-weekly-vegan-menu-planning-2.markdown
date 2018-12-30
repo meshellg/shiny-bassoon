@@ -1,14 +1,13 @@
 ---
 author: meshell
-comments: true
+comments: false
 date: 2017-06-25 10:59:18+00:00
 layout: post
 link: http://tinyhuman.house/2017/06/25/weekly-vegan-menu-planning-2/
 slug: weekly-vegan-menu-planning-2
 title: 'Weekly Vegan Menu Planning #2'
-wordpress_id: 110
 categories:
-- "Sunday Meal Planning"
+- MealPlanning
 ---
 
 I should start thinking about the weeks ahead during the week before, but we get to Sunday and I remember it's time to put our grocery order in. Grocery order? Well - our local grocer has an online option so someone else picks our groceries for us and we load it into our car.

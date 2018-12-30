@@ -1,12 +1,11 @@
 ---
 author: meshell
-comments: true
+comments: false
 date: 2018-04-25 16:28:06+00:00
 layout: post
 link: http://tinyhuman.house/2018/04/25/fostering-tiny-humans-step-one/
 slug: fostering-tiny-humans-step-one
 title: Fostering Tiny Humans - Step One
-wordpress_id: 210
 categories:
 - Fostering
 ---

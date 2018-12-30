@@ -1,12 +1,11 @@
 ---
 author: meshell
-comments: true
+comments: false
 date: 2017-11-07 04:01:08+00:00
 layout: post
 link: http://tinyhuman.house/2017/11/07/we-went-outside-and-other-things/
 slug: we-went-outside-and-other-things
 title: We went outside and other things
-wordpress_id: 152
 categories:
 - ForestSchool
 ---

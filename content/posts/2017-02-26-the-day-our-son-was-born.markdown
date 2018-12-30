@@ -1,16 +1,15 @@
 ---
 author: meshell
-comments: true
+comments: false
 date: 2017-02-26 23:59:16+00:00
 layout: post
 link: http://tinyhuman.house/2017/02/26/the-day-our-son-was-born/
 slug: the-day-our-son-was-born
 title: The day our son was born.
-wordpress_id: 35
 categories:
-- Long Stories
+- LongStories
 tags:
-- Birth story
+- BirthStory
 ---
 
 I wanted to start where our tiny human house began. The day our son was born. I wrote this originally on **Apr 18, 2016 @ 12:24**, but have edited it a tiny bit, and added a few more details along the way.

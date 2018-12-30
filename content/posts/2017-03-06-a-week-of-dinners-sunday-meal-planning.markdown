@@ -1,14 +1,13 @@
 ---
 author: meshell
-comments: true
+comments: false
 date: 2017-03-06 02:02:00+00:00
 layout: post
 link: http://tinyhuman.house/2017/03/06/a-week-of-dinners-sunday-meal-planning/
 slug: a-week-of-dinners-sunday-meal-planning
 title: A week of dinners - sunday meal planning
-wordpress_id: 54
 categories:
-- "Sunday Meal Planning"
+- MealPlanning
 tags:
 - recipes
 ---

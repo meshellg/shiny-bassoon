@@ -1,12 +1,11 @@
 ---
 author: meshell
-comments: true
+comments: false
 date: 2018-01-11 18:45:24+00:00
 layout: post
 link: http://tinyhuman.house/2018/01/11/the-way-people-treat-children/
 slug: the-way-people-treat-children
 title: The way people treat children
-wordpress_id: 171
 categories:
 - NavelGazing
 ---

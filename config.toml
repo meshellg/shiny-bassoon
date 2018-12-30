@@ -2,11 +2,9 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Tiny Human House"
 theme = "purehugo"
-Paginate = 10
-disqusShortname = "xxxx"
+Paginate = 5
 
 [params]
   twitterName = "mdgee"
   githubName = "meshellg"
-  description = "mom blog for moms"
-  google_analytics = "UA-xxxxxx-xx"
+  description = "Learning and Growing Together."

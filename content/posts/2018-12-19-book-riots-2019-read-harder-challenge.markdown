@@ -6,6 +6,8 @@ layout: post
 link: http://tinyhuman.house/2018/12/19/book-riots-2019-read-harder-challenge/
 slug: book-riots-2019-read-harder-challenge
 title: Book Riot's 2019 Read Harder Challenge
+category:
+- Books
 ---
 
 I did BookRiot's 2018 Read Harder Challenge, and it got me out of my usual genres and connected me with books I really loved that weren't ones I would have picked up.

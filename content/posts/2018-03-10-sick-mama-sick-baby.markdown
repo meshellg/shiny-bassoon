@@ -1,12 +1,11 @@
 ---
 author: meshell
-comments: true
+comments: false
 date: 2018-03-10 17:51:09+00:00
 layout: post
 link: http://tinyhuman.house/2018/03/10/sick-mama-sick-baby/
 slug: sick-mama-sick-baby
 title: Sick Mama, Sick Baby
-wordpress_id: 196
 categories:
 - NavelGazing
 ---

@@ -1,12 +1,11 @@
 ---
 author: meshell
-comments: true
+comments: false
 date: 2017-06-19 22:36:42+00:00
 layout: post
 link: http://tinyhuman.house/2017/06/19/tiny-human-house-tiny-houses-she-sheds/
 slug: tiny-human-house-tiny-houses-she-sheds
 title: Tiny Human House, Tiny Houses, She Sheds
-wordpress_id: 103
 tags:
 - building
 - diy
@@ -23,5 +22,3 @@ After going down a pinterest rabbit hole last night, I am now at least partially
 I have my eye on one of the barn shed kits from ShedInADay, but we'll see what will happen. The last time I built anything was with Habitat for Humanity about 10 years ago. (dang)
 
 No matter what, it's a lot of fun to think about and imagine.
-
-

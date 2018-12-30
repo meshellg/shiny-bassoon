@@ -1,12 +1,11 @@
 ---
 author: meshell
-comments: true
+comments: false
 date: 2017-11-03 00:07:50+00:00
 layout: post
 link: http://tinyhuman.house/2017/11/03/what-we-learned-owls-trucks-nature-programming-more-owls/
 slug: what-we-learned-owls-trucks-nature-programming-more-owls
 title: What We Learned - Owls, Trucks, Nature programming, more owls
-wordpress_id: 141
 categories:
 - Learning
 ---

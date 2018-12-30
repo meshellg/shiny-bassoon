@@ -1,17 +1,16 @@
 ---
 author: meshell
-comments: true
+comments: false
 date: 2017-04-18 02:11:40+00:00
 layout: post
 link: http://tinyhuman.house/2017/04/18/one-year-of-mama/
 slug: one-year-of-mama
 title: One Year of Mama
-wordpress_id: 79
 categories:
-- "Navel Gazing"
+- NavelGazing
 tags:
 - cake
-- little green radicals
+- clothes
 ---
 
 My baby is one year old.
