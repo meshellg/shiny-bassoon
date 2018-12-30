@@ -14,13 +14,7 @@ title: Field-trips with Friends
 Today my adventure began bright and early. I went downtown (by myself) to take part in the Sunrise Ceremony at the [IRSS Legacy Celebration](https://irsslegacy.com/) at Nathan Phillips Square. I was late arriving and stood back and watched, I think I could have joined in. I probably should have, but felt uncomfortable and disrespectful about being late for it. (I have this thing with time.)
 
 
-
-
-
-![](http://tinyhuman.house/wp-content/uploads/2018/10/toronto.jpg)
-
-
-
+{{% img-responsive "(http://tinyhuman.house/wp-content/uploads/2018/10/toronto.jpg %}}
 
 
 But it felt meaningful and with intention, as a fairly large group gathered to acknowledge the day. Tkaronto was projected on the left tower of City Hall. 
