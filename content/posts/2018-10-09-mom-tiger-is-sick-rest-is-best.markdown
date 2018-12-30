@@ -8,7 +8,7 @@ slug: mom-tiger-is-sick-rest-is-best
 title: Mom Tiger is Sick - Rest is Best.
 ---
 
-{{< youtube 1zGSnMX2g30?t=795 >}}
+{{< youtube 1zGSnMX2g30 >}}
 
 I've been sick for a few days and I feel bummed out about it - there is so much I'd like to do, and so much I'd rather be doing, but I'm trying to rest as much as possible.
 
