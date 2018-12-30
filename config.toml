@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "purehugo"
+Paginate = 10
+disqusShortname = "xxxx"
+
+[params]
+  twitterName = "mdgee"
+  githubName = "meshellg"
+  stackOverflowId = "#######"
+  description = "mom blog for moms"
+  google_analytics = "UA-xxxxxx-xx"
