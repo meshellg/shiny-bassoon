@@ -8,7 +8,7 @@ slug: the-way-people-treat-children
 title: The way people treat children
 wordpress_id: 171
 categories:
-- Navel Gazing
+- NavelGazing
 ---
 
 I'm not alone in how I see children, there are people that inspire me to be better and more thoughtful and more patient - folks like [Robin Enzig of Visible Child](https://visiblechild.wordpress.com/) and [Teacher Tom.](https://teachertomsblog.blogspot.com/)  Having expectations are developmentally appropriate and fair make things a lot easier.  Boundaries are created and kept and gently supported. Feelings are allowed. Children are supported and set up for success instead of pushed towards one thing or another. Children are spoken to as people, not play things or cute puppies.

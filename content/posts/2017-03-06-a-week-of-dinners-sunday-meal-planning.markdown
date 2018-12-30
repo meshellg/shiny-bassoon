@@ -8,7 +8,7 @@ slug: a-week-of-dinners-sunday-meal-planning
 title: A week of dinners - sunday meal planning
 wordpress_id: 54
 categories:
-- Sunday Meal Planning
+- "Sunday Meal Planning"
 tags:
 - recipes
 ---

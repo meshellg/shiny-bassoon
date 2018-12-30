@@ -8,9 +8,8 @@ slug: one-year-of-mama
 title: One Year of Mama
 wordpress_id: 79
 categories:
-- Navel Gazing
+- "Navel Gazing"
 tags:
-- beb and ooo
 - cake
 - little green radicals
 ---
@@ -84,4 +83,4 @@ I feel more confident for the future. I feel like a capable parent and like I ca
 Ultimately, I'm trying to make sure that I'm enjoying the present, but also looking forward to the future. We have a lot of fun everyday, lots of laughs, and lots of books. I'm excited to share the things I love with the ones I love, and I'm looking forward to the years ahead.
 
 
-### 
+###

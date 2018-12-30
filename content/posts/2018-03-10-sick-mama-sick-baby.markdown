@@ -8,7 +8,7 @@ slug: sick-mama-sick-baby
 title: Sick Mama, Sick Baby
 wordpress_id: 196
 categories:
-- Navel Gazing
+- NavelGazing
 ---
 
 We're feeling a lot better now, but we've been sick for about a week - before us it was my partner that was sick, then the rest of us caught it eventually. My goal was to take it as easy as possible - and to encourage my son to do the same. The weather was pretty mediocre as well, so it lent it self well to staying indoors for the most part.

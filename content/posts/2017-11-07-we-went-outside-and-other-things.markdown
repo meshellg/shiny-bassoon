@@ -8,7 +8,7 @@ slug: we-went-outside-and-other-things
 title: We went outside and other things
 wordpress_id: 152
 categories:
-- Forest School
+- ForestSchool
 ---
 
 The Tinyhuman had a swimming lesson this morning - he went with his dad, and I slept in until the glorious time of 9am. I'm getting pretty into these Saturday mornings where I sleep in, and then do some housework while they go play in the pool. In my head, I thought maybe I would start going to the gym, but I end up doing things I have a hard time doing while the kid is at home instead.

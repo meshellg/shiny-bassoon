@@ -8,7 +8,7 @@ slug: weekly-vegan-menu-planning-3
 title: 'Weekly Vegan Menu Planning #3 -'
 wordpress_id: 111
 categories:
-- Sunday Meal Planning
+- "Sunday Meal Planning"
 ---
 
 I started my planning process earlier this time around, so there is no scramble to make a plan and also it gave a little time to go along and comment on the week as things happened.
@@ -45,49 +45,49 @@ Tofu Scramble and Hashbrowns
 
 
 
- 	
+
   * Lemon ginger jar
 
- 	
+
     * Lemon Ginger Dressing (olive oil, lemon juice, garlic, ginger, Dijon mustard, Soy), Millet, lentils, celery root, Edamame, kale, Corn, Carrots, Sweet Bell Peppers, Seeds, Unsalted dry roasted sunflower seed, Green Onions
 
 
 
 
- 	
+
   * Moroccan Tagine jar
 
- 	
+
     * Chickpeas, lemon ginger dressing, millet, sweet potato, celery root, carrots,  various greens, rehydrated apricots and raisins, parsley
 
 
 
 
- 	
+
   * Deconstructed falafel jar
 
- 	
+
     * chopped up tomatoes, cucumbers, red onion
 
- 	
+
     * pickled turnips
 
- 	
+
     * chickpeas
 
- 	
+
     * lemon lentil salad
 
- 	
+
     * sesame seeds
 
- 	
+
     * a tahini parsley dressing on the side
 
 
 
 
- 	
+
   * Burrito Jar
 
 
@@ -110,16 +110,16 @@ Great Chefs Cook Vegan - Gabriel Kreuther PG 122
 
 
 
- 	
+
   * Yukon Gold Potato "Linguini" and Fresh Sprouts Salad with a Sorrel-Arugula Emulsion
 
- 	
+
   * Warm Watermelon Salad with Tomatoes, Crushed Pistachios, and aged Balsamic Vinegar
 
- 	
+
   * Seasonal Vegetable Medley with Sautéed Tofu and Horseradish Broth
 
- 	
+
   * Chilled White and Yellow Peach Soup, Poached with Beer and Lemon Verbena
 
 

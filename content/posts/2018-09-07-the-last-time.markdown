@@ -8,7 +8,7 @@ slug: the-last-time
 title: The last time
 wordpress_id: 231
 categories:
-- Navel Gazing
+- NavelGazing
 ---
 
 I was reading a comic I like recently and it made me burst into tears. [How Baby Comic](http://howbabycomic.com/comic/hb322/) talked about an ask reddit thread where people talked about the saddest sentence they could think of, and the author quoted:
