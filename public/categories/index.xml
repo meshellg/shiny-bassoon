@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tiny Human House</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Tiny Human House</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forestschool</title>
+      <link>/categories/forestschool/</link>
+      <pubDate>Wed, 10 Oct 2018 16:11:07 +0000</pubDate>
+      
+      <guid>/categories/forestschool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fostering</title>
+      <link>/categories/fostering/</link>
+      <pubDate>Wed, 25 Apr 2018 16:28:06 +0000</pubDate>
+      
+      <guid>/categories/fostering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>/categories/learning/</link>
+      <pubDate>Wed, 10 Oct 2018 16:11:07 +0000</pubDate>
+      
+      <guid>/categories/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longstories</title>
+      <link>/categories/longstories/</link>
+      <pubDate>Sun, 26 Feb 2017 23:59:16 +0000</pubDate>
+      
+      <guid>/categories/longstories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mealplanning</title>
+      <link>/categories/mealplanning/</link>
+      <pubDate>Mon, 03 Jul 2017 01:08:13 +0000</pubDate>
+      
+      <guid>/categories/mealplanning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Navelgazing</title>
+      <link>/categories/navelgazing/</link>
+      <pubDate>Fri, 07 Sep 2018 22:27:58 +0000</pubDate>
+      
+      <guid>/categories/navelgazing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

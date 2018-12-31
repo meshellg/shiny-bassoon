@@ -12,9 +12,7 @@ categories:
 
 I was reading a comic I like recently and it made me burst into tears. [How Baby Comic](http://howbabycomic.com/comic/hb322/) talked about an ask reddit thread where people talked about the saddest sentence they could think of, and the author quoted:
 
-
 <blockquote> "one day, your parents put you down and never picked you back up again."</blockquote>
-
 
 We are in that zone now, things are shifting away slowly to a different stage, he's ready to be more independent, and I am working on let go. For the first 2 years, he wouldn't hold his bottle by himself, and I was happy to snuggle him anyway. A few months  ago, he started holding it entirely by himself.
 

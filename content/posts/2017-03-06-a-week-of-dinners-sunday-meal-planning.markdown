@@ -24,38 +24,21 @@ Here is our menu for the week starting with today: (maybe...)
 
 **Sunday (done!)**
 
-![](http://tinyhuman.house/wp-content/uploads/2017/03/black-eyed-pea-loaf-1024x768.jpg)
-
-
+![](/img/black-eyed-pea-loaf-1024x768-min.jpg)
 
 
   * [Lentil Loaf](http://www.myvegancookbook.com/recipes/recipe.php?id=16) (replaced lentils with black eyed peas)
 
-
   * [Roasted Sweet Potato](http://www.theveganroad.com/recipes/roasted-sweet-potatoes-with-pumpkin-seeds/) (turned into simple baked sweet potatoes)
-
-
   * [Mint and Lime Green Beans](http://www.marthastewart.com/852398/green-beans-lime-and-mint) (but I've already modified it to be garlicky mint and lime yu choy)
 
 
 **Monday**
 
-
-
-
   * [Glory Bowl](http://whitewatercooks.com/portfolio_page/glory-bowl/) (the nice thing about this is that the ingredients are also perfect for lunch for some of the other days of the week for me and the small human)
-
-
     * On Sunday I cooked up enough rice for this and future meals (like the tacos and gumbo)
 
-
-
-
-
 **Tuesday**
-
-
-
 
   * Taco night (I've gotten super into making a make your own taco table every Tuesday)
 
@@ -66,14 +49,7 @@ Here is our menu for the week starting with today: (maybe...)
     * [Quinoa Stuffed Mushrooms](http://cooknourishbliss.com/2016/08/01/mexican-quinoa-stuffed-portabella-mushrooms/)
 
 
-
-
-
 **Wednesday**
-
-
-
-
   * [Samosa Soup](http://yupitsvegan.com/2014/09/16/samosa-soup/)
 
 
@@ -93,14 +69,10 @@ Here is our menu for the week starting with today: (maybe...)
 
 **Friday**
 
-
-
-
   * [Trini doubles with Chickpeas](http://www.food.com/recipe/trini-doubles-caribbean-fried-dough-and-chickpea-sandwiches-232226) (though I will likely use the recipe in taymer mason's Caribbean vegan)
 
 
 Saturday (it's Purim, so it's time for a feast, and we're considering inviting my partners family, some of which follow a ketogenic diet))
-
 
   * [Hamantaschen](http://www.haaretz.com/jewish/kosher-cuisine/.premium-1.579057)
 

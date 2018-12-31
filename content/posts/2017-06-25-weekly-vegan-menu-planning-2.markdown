@@ -24,10 +24,7 @@ I'm starting the weekend feeling more enthusiastic about savoury items but I lik
 ## Breakfasts
 
 
-![](http://tinyhuman.house/wp-content/uploads/2017/06/chickpea-shakshuka-300x240.jpg)
-
-
-
+![](/img/chickpea-shakshuka-300x240.jpg)
 
   * Monday - [Overnight Zucchini oats](http://www.hummusapien.com/banana-zucchini-overnight-oats/)
 
@@ -58,7 +55,7 @@ I'm starting the weekend feeling more enthusiastic about savoury items but I lik
 ## Lunches (3 on the go)
 
 
-![](http://tinyhuman.house/wp-content/uploads/2017/06/orzo-jarred-salad-243x300.jpg)
+![](/img/orzo-jarred-salad-243x300.jpg)
 
 
 

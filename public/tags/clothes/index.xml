@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clothes on Tiny Human House</title>
+    <link>/tags/clothes/</link>
+    <description>Recent content in Clothes on Tiny Human House</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Apr 2017 02:11:40 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/clothes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>One Year of Mama</title>
+      <link>/posts/one-year-of-mama/</link>
+      <pubDate>Tue, 18 Apr 2017 02:11:40 +0000</pubDate>
+      
+      <guid>/posts/one-year-of-mama/</guid>
+      <description>My baby is one year old.
+While obviously, this is a significant milestone for him - I&amp;rsquo;m trying to find a balance between telling my story, and not telling his. The often forgotten part of birthday&amp;rsquo;s are parents - and I know I never gave my parents much thought when I was growing up and it was my birthday. It was just me. Now I feel like I should have at least gotten my mom a card&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

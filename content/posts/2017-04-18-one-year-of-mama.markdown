@@ -28,11 +28,11 @@ We didn't plan a big theme, or a party. I had considered it, but then realized t
 
 The three of us went and played in a nearby park for a little while until it was time to go home and nap.
 
-![](http://tinyhuman.house/wp-content/uploads/2017/04/Beeboo-in-the-Park-1024x768.jpg)
+![](/img/Beeboo-in-the-Park-1024x768-min.jpg)
 
 One of my presents (to myself) for the Beeboo's birthday was this [cute happy crabby onesie](https://modernrascals.ca/collections/clothing/products/beb-and-ooo-happy-crabs-onesie) from [Beb and Ooo.](https://www.bebandooo.co.uk/) (also, was excited to grab something from them because of our kiddo's nickname!) I picked it up at the Baby Show from Modern Rascals.
 
-[caption id="attachment_87" align="aligncenter" width="640"]![Illustrated dark red large and small crabs on a golden yellow onesie. The collar is lined with a similar colour. ](http://tinyhuman.house/wp-content/uploads/2017/04/Beb-and-Ooo-Crab-Onesie-MOdern-Rascals-740x1024.jpg) Here is a close up of the Beb and Ooo Happy Crabs onesie. It makes me so happy![/caption]
+[caption id="attachment_87" align="aligncenter" width="640"]![Illustrated dark red large and small crabs on a golden yellow onesie. The collar is lined with a similar colour. ](/img/Beb-and-Ooo-Crab-Onesie-MOdern-Rascals-740x1024-min.jpg) Here is a close up of the Beb and Ooo Happy Crabs onesie. It makes me so happy![/caption]
 
 
 ## What has changed for me in a year?

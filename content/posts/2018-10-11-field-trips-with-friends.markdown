@@ -20,24 +20,6 @@ He watched me fill in my ballot, and asked me what I was doing - I told him I wa
 
 A friend met us with their kiddo, and we got to watch a Lacrosse demonstration from The Toronto Rock, and admire some of artistry of the commemorative teepees and play in the adjoining open spaces. 
 
-
-
-
-
-
-
 And my favourite part of the day - watching our kids play together.
-
-
-
-
-
-
-
-
-
-
-
-
 
 There is nothing better than that. 

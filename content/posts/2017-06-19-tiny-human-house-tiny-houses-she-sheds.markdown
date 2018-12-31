@@ -13,7 +13,7 @@ tags:
 
 Somehow I've gotten a bit obsessed with the idea of a She Sheds. Or just, having a tiny shed in the garden to escape and read or craft or write in. It's part of a large effort to simplify things in the house, and make the house as safe as possible for our little one, but also, just symbolic of my need to have something that is mine. All mine.
 
-![](http://tinyhuman.house/wp-content/uploads/2017/06/garden-shed-931508_1280-1024x819.jpg)
+![](/img/garden-shed-931508_1280-1024x819-min.jpg)
 
 If you've never heard of a [She Shed](https://www.lowes.com/projects/utility-and-storage/she-shed/article), it's often just a repurposed shed or garden potting house, which can be designated for whatever a She wants - often crafting, reading, socializing, or whatever. Think of it as a tree or play house for adults.
 

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tiny Human House</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Tiny Human House</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Feb 2017 23:59:16 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Birthstory</title>
+      <link>/tags/birthstory/</link>
+      <pubDate>Sun, 26 Feb 2017 23:59:16 +0000</pubDate>
+      
+      <guid>/tags/birthstory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building</title>
+      <link>/tags/building/</link>
+      <pubDate>Mon, 19 Jun 2017 22:36:42 +0000</pubDate>
+      
+      <guid>/tags/building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cake</title>
+      <link>/tags/cake/</link>
+      <pubDate>Tue, 18 Apr 2017 02:11:40 +0000</pubDate>
+      
+      <guid>/tags/cake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clothes</title>
+      <link>/tags/clothes/</link>
+      <pubDate>Tue, 18 Apr 2017 02:11:40 +0000</pubDate>
+      
+      <guid>/tags/clothes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diy</title>
+      <link>/tags/diy/</link>
+      <pubDate>Mon, 19 Jun 2017 22:36:42 +0000</pubDate>
+      
+      <guid>/tags/diy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recipes</title>
+      <link>/tags/recipes/</link>
+      <pubDate>Mon, 06 Mar 2017 02:02:00 +0000</pubDate>
+      
+      <guid>/tags/recipes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -9,7 +9,7 @@ Paginate = 5
   githubName = "meshellg"
   description = "Learning and Growing Together."
 
-  [imaging]
+[imaging]
   # Default resample filter used for resizing. Default is Box,
   # a simple and fast averaging filter appropriate for downscaling.
   # See https://github.com/disintegration/imaging

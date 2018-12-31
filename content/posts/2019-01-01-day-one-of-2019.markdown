@@ -1,0 +1,24 @@
+---
+author: meshell
+comments: false
+date: 2010-01-01 11:00:49+00:00
+layout: post
+link:
+slug: day-one-of-2019
+title: new year, same great us
+category: nerdstuff
+---
+
+I've changed my blog over to hugo, which was a nice little experiment in static site creation, and also wordpress to static site conversion.
+
+A big step for me was asking for help from JC. I have a technology background, but through that experience have also acquired the biggest fear of not knowing things, and having that lack of knowledge applied either to my gender, or as a result of it.
+
+I haven't done much of anything from the Terminal in a while, and was out of practice, so his support really got me back to it, and feeling more comfortable again. I'm using Atom
+
+This is my smallest blog, so it had a reasonable number of files to convert, and wouldn't be too difficult to manually change things as needed, my other blog is over a decade old, and a bit more daunting to switch to a static site.
+
+I followed [this handy guide](https://samaxes.com/2016/02/static-site-from-wordpress-to-hugo/ "samaxes blog") for switching over from Wordpress to Hugo. The Guide is over two years old, but still perfectly relevant.
+
+The only real difference was that I didn't have comments to export, and I don't really want comments most of the time anyway (if only because they're more likely to be people trying to I started by going to wordpress and exporting posts as xml.
+
+I'm using github and netlify to store and deploy my site, and it's been a lot of fun so far. I've been trying to find my passion for tech again and learning something new, based on knowledge I already had kicking around, from someone that 1. I feel safe to be wrong with, and 2. is great at non-judgemental support and advice, has been really exciting and fun.
