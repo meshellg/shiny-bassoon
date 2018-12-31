@@ -84,7 +84,7 @@ We had an incredible team of nurses, doctors, midwives, and I appreciate their s
 
 **And best of all:**
 
-![jordan and meshell and simon](/static/img/jordan-and-meshell-and-simon.jpg)
+![jordan and meshell and simon](static/img/jordan-and-meshell-and-simon.jpg)
 
 
 Here is our family  :)
