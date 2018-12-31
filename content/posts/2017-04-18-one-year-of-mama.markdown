@@ -32,16 +32,11 @@ The three of us went and played in a nearby park for a little while until it was
 
 One of my presents (to myself) for the Beeboo's birthday was this [cute happy crabby onesie](https://modernrascals.ca/collections/clothing/products/beb-and-ooo-happy-crabs-onesie) from [Beb and Ooo.](https://www.bebandooo.co.uk/) (also, was excited to grab something from them because of our kiddo's nickname!) I picked it up at the Baby Show from Modern Rascals.
 
-[caption id="attachment_87" align="aligncenter" width="640"]![Illustrated dark red large and small crabs on a golden yellow onesie. The collar is lined with a similar colour. ](/img/Beb-and-Ooo-Crab-Onesie-MOdern-Rascals-740x1024-min.jpg) Here is a close up of the Beb and Ooo Happy Crabs onesie. It makes me so happy![/caption]
+[Illustrated dark red large and small crabs on a golden yellow onesie. The collar is lined with a similar colour.](/img/Beb-and-Ooo-Crab-Onesie-MOdern-Rascals-740x1024-min.jpg) Here is a close up of the Beb and Ooo Happy Crabs onesie. It makes me so happy!
 
 
 ## What has changed for me in a year?
-
-
-
-
 ### Time
-
 
 I realized just how much time I used to have. Time to myself. Time to watch tv. Time to do absolutely nothing. I've become more efficient with my time - while still completely wasting it somedays. I've come to accept that there is value in "wasting" time - the first few months while the Beeboo napped I cleaned and did useful things.
 

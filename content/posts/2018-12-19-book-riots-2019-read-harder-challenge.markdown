@@ -18,6 +18,8 @@ I don't plan on getting too intense about checking off boxes that don't excite m
 
 To get organized for next year, I've to started collecting some suggestions here, if you've any recommendations for me, I'd love to hear them!
 
+You can see the post from [bookriot here](https://bookriot.com/2018/12/12/2019-read-harder-challenge/).
+
 You can see my collection of 2019 ReadHarder books on GoodReads, arranged in no particular order [right here](https://www.goodreads.com/review/list/2388071-michelle?shelf=read-harder-2019).
 
 I am lucky that most of these are available from the Toronto Public Library, and even luckier that many of them are available as e-books which has been my favourite and most effective way to get some read done. (And certainly makes it easier to read anywhere - when a selection of books is available right on my cellphone.)

@@ -62,7 +62,7 @@ Another person with a toddler came by, and decided to move the caterpillar off t
 We read Lois Ehlert's "[Red Leaf, Yellow Leaf](https://www.amazon.ca/Red-Leaf-Yellow-Lois-Ehlert/dp/0152661972/ref=as_li_ss_tl?ie=UTF8&qid=1539290710&sr=8-1&keywords=Red+Leaf,+Yellow+Leaf&linkCode=ll1&tag=meshellg-20&linkId=0069c164356b6c237c6e9a252c469bae&language=en_CA)" a few times, which I hadn't noticed was about an urban transplanted tree when I put it in my bag this morning - it was a bit funny to be reading it in this forest full of old trees - albeit still relevant because there are also many transplanted trees in High Park and the book has a bunch of more in depth (but simplified) information about trees and leaves.
 
 
-![](/img/red-leaf-yellow-leaf.jpg)
+![](/img/red-leaf-yellow-leaf-min.jpg)
 
 
 We have a really lovely book about why leaves change colour appropriately called.... ["Why Do Leaves Change Colour"](https://amzn.to/2IQgRkJ) (by Besty Maestro) which of course, I haven't been able to find in the house yet this fall.
@@ -76,7 +76,7 @@ There are lots of really fantastic resources online about why leaves change colo
 One final thing before we went home - there was a sign near Grenadier pond, and the Tinyhuman asked me to read it. It's a wordy, but interesting background on how Grenadier Pond came to be - history of waterways and shorelines and I learned what [a weir](https://en.wikipedia.org/wiki/Weir) is. _(A **weir **or **low head dam** is a barrier across the horizontal width of a river that alters the flow characteristics of water and usually results in a change in the height of the river level.)_ [They suggest visiting their website to learn more - so we totally did.](http://highparknature.org/wiki/wiki.php?n=History.FrontPage) Well, I did. The tiny human was already napping.
 
 
-![](/img/grenadier-pond-min.jpg)
+![](/img/grenadier-pond-min-min.jpg)
 
 
 We walked back around, up a very tall staircase, around the High Park [children's teaching garden](https://childrensecoprograms.ca/), and behind [Colbourne Lodge](https://www.toronto.ca/explore-enjoy/history-art-culture/museums/colborne-lodge/), and walked back on a well worn trail to our trees, to play and build nests and watch fat squirrels diligently collecting acorns for the winter. 
