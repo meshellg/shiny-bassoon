@@ -48,7 +48,7 @@ We ended up waiting in the hospital about 6 hours all together - from the ultra
 
 When it was time for surgery, I waddled down the hall in Labour and Delivery with my midwife, and went into the OR. There was a small metal table in the middle of the room, I hoisted myself on top of it, and then it was time to wait for the flurry of activity to begin. Anne was with me the whole time.
 
-![](/img/OR-Room-Door.jpg)
+![](/img/OR-Room-Door-min.jpg)
 
 I watched a surgical tech prepare the equipment, count the cloths and sponges out loud, unwrap all the tools the surgeon would need for their work on me, it was all very slow and methodical. The process, the repetition, the routine. Everyone had their task. Mine was to sit there and wait.
 
@@ -58,7 +58,7 @@ Anne had a solid calming presence, she had done this before, and she would do i
 
 JC was sitting outside all dressed in a surgical gown, cap and booties, waiting for his chance to join me. He sat outside watching as much of the action he could see, each time sneaking a peak when the door opened a crack for a new team member, or a hand washing. He had to wait until things were well underway to join, probably to keep his clumsy self (_he wrote that part himself_) out of harm's way.
 
-![JC Cap and Gown](/img/JC-Cap-and-Gown.jpeg)
+![JC Cap and Gown](/img/JC-Cap-and-Gown-min.jpeg)
 
 A nurse and my midwife helped me lay down on the metal table as the anesthetic had already started to take effect and I quickly lost most sensation on the lower half of my body. The weird thing about this anesthetic is that while I didn't feel pain or pokes - I could still feel pressure and movement during the surgery. So I could feel them pull our baby out of my body, it just didn't hurt.
 
@@ -70,7 +70,7 @@ I wasn’t sure if I would feel a bond with him immediately, because I know that
 
 I kept pulling my arm over to touch him between rounds on the BP cuff, getting a few moments in before it pulsed again. I just never wanted to let him go again.
 
-![](/img/post-c-section-1024x559.jpg)
+![](/img/post-c-section-1024x559-min.jpg)
 
 They asked me if I would be okay if JC left me for a bit and went with our babe to go to the warming bin and weigh station to get checked out, and that he would then be taken to recovery for some skin-to-skin time with JC while they closed me up post surgery. Eventually they wheeled me into recovery where JC was snuggling with our newest family member. Tiny new human against his furry chest.
 
@@ -84,7 +84,7 @@ We had an incredible team of nurses, doctors, midwives, and I appreciate their s
 
 **And best of all:**
 
-![jordan and meshell and simon](/img/jordan-and-meshell-and-simon.jpg)
+![jordan and meshell and simon](/img/jordan-and-meshell-and-simon-min.jpg)
 
 
 Here is our family  :)
