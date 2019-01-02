@@ -21,4 +21,10 @@ I followed [this handy guide](https://samaxes.com/2016/02/static-site-from-wordp
 
 The only real difference was that I didn't have comments to export, and I don't really want comments most of the time anyway (if only because they're more likely to be people trying to I started by going to wordpress and exporting posts as xml.
 
-I'm using github and netlify to store and deploy my site, and it's been a lot of fun so far. I've been trying to find my passion for tech again and learning something new, based on knowledge I already had kicking around, from someone that 1. I feel safe to be wrong with, and 2. is great at non-judgemental support and advice, has been really exciting and fun.
+I'm using github and netlify to store and deploy my site, and it's been a lot of fun so far. I've been trying to find my passion for tech again and learning something new, based on knowledge I already had kicking around, from someone that
+1. I feel safe to be wrong with, and
+2. is great at non-judgemental support and advice, has been really exciting and fun.
+
+Yesterday JC and I went out for dinner to celebrate while his mom watched the TinyHuman. We had such a nice time.
+
+This morning I woke up bright and early and jumped in the lake.
