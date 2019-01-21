@@ -30,8 +30,6 @@ I am lucky that most of these are available from the Toronto Public Library, and
 ## **Read Harder 2019**
 
   1. ** An epistolary novel or collection of letters**
-
-
     * Microserfs - Douglas Coupland
       * I picked this book up several years ago (2015?) during the ROM's Douglas Coupland installation, and it's been on my "to read" list ever since.
     * Letters to a Young Poet, Ranier Maria Rilke
@@ -40,19 +38,13 @@ I am lucky that most of these are available from the Toronto Public Library, and
     * Charing Cross Road by Helene Hanff
 
   2. **An alternate history novel**
-
-
     * ✔ Naughts & Crosses by Malorie Blackman
       * I've gotten really excited about this genre and there is not nearly enough out there. Two young people are forced to make a stand in this thought-provoking look at racism and prejudice in an alternate society. Sephy is a Cross -- a member of the dark-skinned ruling class. Callum is a Nought -- a “colourless” member of the underclass who were once slaves to the Crosses.
-
       * I read this book and have a mixed feeling about it. The story was so interesting and compelling in the beginning, and then it felt like it sort of fizzled out by the end.
 
   3. **A book by a woman and/or AOC (Authour of Colour) that won a literary award in 2018**
-
-
     * ✔ Decent into the Night by Edem Awumey (Winner of the [Governor Generals Literary Award](https://ggbooks.ca/descent-into-night), written in French by a male authour of colour and translated by a woman.)
     * Washington Black by Esi Edugyan (winner of the 2018 [Giller Prize](https://scotiabankgillerprize.ca/esi-dugyan-winner-2018-scotiabank-giller-prize/), Esi is also a woman authour of colour.)
-
 
   4. **A humour book**
     * You Can't Touch My Hair: And Other Things I Still Have to Explain by Phoebe Robinson
@@ -69,17 +61,13 @@ by Gabourey Sidibe
       * I've been working through the work of Octavia Butler, because it is all excellent, so this one was inevitable, but fits the category.
     * An Unkindness of Ghosts by Rivers Solomon
 
-
   7. **An [#ownvoices](http://www.corinneduyvis.net/ownvoices/) book set in Mexico or Central America**
     * Umami - Laia Jufresa
-
 
   8. **An [#ownvoices](http://www.corinneduyvis.net/ownvoices/) book set in Oceania**
     * Where We Once Belonged by Sia Figiel
     * Pounamu, Pounamu by Witi Ihimaera (Maori New Zealand)
     * The Bone People by Keri Hulme (New Zealand)
-
-
 
   9. **A book published prior to January 1, 2019, with fewer than 100 reviews on Goodreads**
 
@@ -90,7 +78,6 @@ by Gabourey Sidibe
   10. **A translated book written by and/or translated by a woman**
 
     * ✔ Decent into the Night by Edem Awumey (Winner of the [Governor Generals Literary Award](https://ggbooks.ca/descent-into-night), written in French and translated by Phyllis Aronoff & Howard Scott.)
-    * Things We Lost in the Fire by Mariana Enríquez (Argentina, translated from Spanish by Megan McDowell)
     * Sanaaq by Mitiarjuk Nappaaluk (written in inuktitut, translated Bernard Saladin d’Anglure)
     * The Life-Changing Manga of Tidying Up: A Magical Story. by Marie Kondo and Yuka Uramoto, trans. from the Japanese by Cathy Hirano
     * Visitation by Jenny Erpenbeck, Susan Bernofsky (Translator)
@@ -105,7 +92,6 @@ by Gabourey Sidibe
     * The Overstory by Richard Powers
     * Visitation by Jenny Erpenbeck, Susan Bernofsky (Translator)
 
-
   13. **A book by or about someone that identifies as neurodiverse**
     * The Psychopath Inside: A Neuroscientist's Personal Journey into the Dark Side of the Brain by James H. Fallon
     * Too Loud, Too Bright, Too Fast, Too Tight: What to Do If You Are Sensory Defensive in an Overstimulating World by Sharon Heller
@@ -117,6 +103,7 @@ by Gabourey Sidibe
     * ✔ Murder is Binding (Booktown Mystery Series, Book #1) by Lorraine Bartlett
         * really enjoyed this one, super cozy mystery. I was a bit surprised at a few instances of casual ablism. It was written in 2008, and I don't think the r-word was okay back then either. I'd probably read more from the Booktown series though.
     * Still Life by Louise Penny
+    * ✔ Study in Scarlet Women part of The Lady Sherlock Series by Sherry Thomas
 
   15. **A book of mythology or folklore**
     * A Thousand Beginnings and Endings by Ellen Oh
