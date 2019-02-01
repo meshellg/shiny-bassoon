@@ -53,13 +53,14 @@ by Gabourey Sidibe
       * I laughed a lot reading this book - even when some of her topics weren't ha ha funny. It's a fun and interesting read about life as Gabourey Sidibe!
 
   5. **A book by a journalist or about journalism**
-    * They Can't Kill Us All: The Story of Black Lives Matter by Wesley Lowery a journalist with the Washington Post
+    * ✔ They Can't Kill Us All: The Story of Black Lives Matter by Wesley Lowery a journalist with the Washington Post
     * Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou
+    * ✔ We regret to inform you that tomorrow we will be killed with our families by  Philip Gourevitch
 
   6. **A book by an Authour of Colour set in or about space**
     * Dawn by Octavia Butler
       * I've been working through the work of Octavia Butler, because it is all excellent, so this one was inevitable, but fits the category.
-    * An Unkindness of Ghosts by Rivers Solomon
+    * ✔ An Unkindness of Ghosts by Rivers Solomon
 
   7. **An [#ownvoices](http://www.corinneduyvis.net/ownvoices/) book set in Mexico or Central America**
     * Umami - Laia Jufresa
@@ -73,6 +74,7 @@ by Gabourey Sidibe
 
     * Sanaaq by Mitiarjuk Nappaaluk, translated Bernard Saladin d’Anglure
     * Worldwalk by Steven Newman
+    * ✔ Darkness by Bharati Mukherjee
 
 
   10. **A translated book written by and/or translated by a woman**
@@ -82,11 +84,10 @@ by Gabourey Sidibe
     * The Life-Changing Manga of Tidying Up: A Magical Story. by Marie Kondo and Yuka Uramoto, trans. from the Japanese by Cathy Hirano
     * Visitation by Jenny Erpenbeck, Susan Bernofsky (Translator)
 
-
   11. **A book of manga**
     * The Life-Changing Manga of Tidying Up: A Magical Story. by Marie Kondo and Yuka Uramoto, trans. from the Japanese by Cathy Hirano
     * Library Wars by Hiro Arikawa
-    * Red: A Haida Manda by Michael Nicoll Yahgulanaas
+    * ✔ Red: A Haida Manga by Michael Nicoll Yahgulanaas
 
   12. **A book in which an animal or inanimate object is a point-of-view character**
     * The Overstory by Richard Powers
@@ -127,13 +128,13 @@ by Gabourey Sidibe
 
   20. **A book written in prison**
     * The House of the Dead by Dostoevsky
-    * Life After Death By Damien Echols
+    * Life After Death By Damien Echolss
 
   21. **A comic by an LGBTQIA creator**
     * Nimona by Noelle Stevenson
 
   22. **A children’s or middle grade book (not YA) that has won a diversity award since 2009**
-    * This category is basically where most of our son's books fit in.
+    * ✔ This category is basically where most of our son's books fit in.
     *  George by Kate Pavao
 
   23. **A self-published book**
@@ -141,7 +142,7 @@ by Gabourey Sidibe
 
   24. **A collection of poetry published since 2014**
     * Night Sky with Exit Wounds by Ocean Vuong
-    * Blackbird Song by Randy Lundy
+    * ✔ Blackbird Song by Randy Lundy
     * ✔ The Sun and Her Flowers | Paperback
 Rupi Kaur
-    * a place called No Homeland by Kai Cheng Thom  
+    * ✔ a place called No Homeland by Kai Cheng Thom  
