@@ -63,6 +63,7 @@ The Toronto Public Library is also doing a [Reading Challenge](https://tpl.ca/re
 14. A book by an author with the same initials as you
   * ✔ Feed by Mira Grant
 ADVANCED
+
 1. A book by an author with a disability
   * On the Edge of Gone by Corinne Duyvis
 2. A book about being a newcomer, refugee or immigrant
@@ -85,7 +86,7 @@ ADVANCED
   * The Toronto book of the dead by adam bunch
   * Scarborough by Catherine Hernandez
 9. A book from [Read Indigenous](https://www.torontopubliclibrary.ca/books-video-music/books/booklists/read-indigenous.jsp)
-  *
+  * 
 10. A book from [The List: Great Reads for Youth](https://www.torontopubliclibrary.ca/teens/the-list.jsp)
   *
 11. A book that’s related to the Periodic Table of Elements
