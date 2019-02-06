@@ -30,12 +30,10 @@ I am lucky that most of these are available from the Toronto Public Library, and
 ## **Read Harder 2019**
 
   1. ** An epistolary novel or collection of letters**
-    * Microserfs - Douglas Coupland
-      * I picked this book up several years ago (2015?) during the ROM's Douglas Coupland installation, and it's been on my "to read" list ever since.
-    * Letters to a Young Poet, Ranier Maria Rilke
-      * Someone mentioned this book was very inspiring to them, so I wanted to check it out.
     * I capture the Castle by Dodie Smith
     * Charing Cross Road by Helene Hanff
+    * ✔ Where did you go Bernadette by Maria Semple
+    * ✔ Ella Minnow Pea by Mark Dunn
 
   2. **An alternate history novel**
     * ✔ Naughts & Crosses by Malorie Blackman
@@ -47,7 +45,6 @@ I am lucky that most of these are available from the Toronto Public Library, and
     * Washington Black by Esi Edugyan (winner of the 2018 [Giller Prize](https://scotiabankgillerprize.ca/esi-dugyan-winner-2018-scotiabank-giller-prize/), Esi is also a woman authour of colour.)
 
   4. **A humour book**
-    * You Can't Touch My Hair: And Other Things I Still Have to Explain by Phoebe Robinson
     * ✔ This Is Just My Face: Try Not to Stare
 by Gabourey Sidibe
       * I laughed a lot reading this book - even when some of her topics weren't ha ha funny. It's a fun and interesting read about life as Gabourey Sidibe!
@@ -75,7 +72,6 @@ by Gabourey Sidibe
     * Sanaaq by Mitiarjuk Nappaaluk, translated Bernard Saladin d’Anglure
     * Worldwalk by Steven Newman
     * ✔ Darkness by Bharati Mukherjee
-
 
   10. **A translated book written by and/or translated by a woman**
 
@@ -122,6 +118,7 @@ by Gabourey Sidibe
     * I've Got a Time Bomb by Sybil lamb
     * All the birds in the sky by Charlie Jane Anders
     * Small Beauty by Jia Qing Wilson-Yang
+    * ✔ An Unkindness of Ghosts -  
 
   19. **A book of nonviolent true crime**
     * Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou
@@ -145,4 +142,5 @@ by Gabourey Sidibe
     * ✔ Blackbird Song by Randy Lundy
     * ✔ The Sun and Her Flowers | Paperback
 Rupi Kaur
-    * ✔ a place called No Homeland by Kai Cheng Thom  
+    * ✔ a place called No Homeland by Kai Cheng Thom
+    * ✔ Good Bones  
