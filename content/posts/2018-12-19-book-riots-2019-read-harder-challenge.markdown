@@ -66,15 +66,14 @@ by Gabourey Sidibe
     * Where We Once Belonged by Sia Figiel
     * Pounamu, Pounamu by Witi Ihimaera (Maori New Zealand)
     * The Bone People by Keri Hulme (New Zealand)
+    * Terra Nullius by Claire G. Coleman (Western Australia. She identifies with the South Coast Noongar people.)
 
   9. **A book published prior to January 1, 2019, with fewer than 100 reviews on Goodreads**
-
     * Sanaaq by Mitiarjuk Nappaaluk, translated Bernard Saladin d’Anglure
     * Worldwalk by Steven Newman
     * ✔ Darkness by Bharati Mukherjee
 
   10. **A translated book written by and/or translated by a woman**
-
     * ✔ Decent into the Night by Edem Awumey (Winner of the [Governor Generals Literary Award](https://ggbooks.ca/descent-into-night), written in French and translated by Phyllis Aronoff & Howard Scott.)
     * Sanaaq by Mitiarjuk Nappaaluk (written in inuktitut, translated Bernard Saladin d’Anglure)
     * The Life-Changing Manga of Tidying Up: A Magical Story. by Marie Kondo and Yuka Uramoto, trans. from the Japanese by Cathy Hirano
@@ -82,7 +81,7 @@ by Gabourey Sidibe
 
   11. **A book of manga**
     * The Life-Changing Manga of Tidying Up: A Magical Story. by Marie Kondo and Yuka Uramoto, trans. from the Japanese by Cathy Hirano
-    * Library Wars by Hiro Arikawa
+    * ✔ Library Wars by Hiro Arikawa
     * ✔ Red: A Haida Manga by Michael Nicoll Yahgulanaas
 
   12. **A book in which an animal or inanimate object is a point-of-view character**
@@ -96,15 +95,13 @@ by Gabourey Sidibe
     * ✔ Heartberries by Terese Marie Mailhot
 
   14. **A cozy mystery**
-
     * ✔ Murder is Binding (Booktown Mystery Series, Book #1) by Lorraine Bartlett
         * really enjoyed this one, super cozy mystery. I was a bit surprised at a few instances of casual ablism. It was written in 2008, and I don't think the r-word was okay back then either. I'd probably read more from the Booktown series though.
     * Still Life by Louise Penny
     * ✔ Study in Scarlet Women part of The Lady Sherlock Series by Sherry Thomas
 
   15. **A book of mythology or folklore**
-    * A Thousand Beginnings and Endings by Ellen Oh
-
+    * ✔ A Thousand Beginnings and Endings by Ellen Oh
 
   16. **An historical romance by an AOC**
     * ✔ An Extraordinary Union by Alyssa Cole
@@ -118,7 +115,7 @@ by Gabourey Sidibe
     * I've Got a Time Bomb by Sybil lamb
     * All the birds in the sky by Charlie Jane Anders
     * Small Beauty by Jia Qing Wilson-Yang
-    * ✔ An Unkindness of Ghosts -  
+    * ✔ An Unkindness of Ghosts - Rivers Solomon
 
   19. **A book of nonviolent true crime**
     * Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou
@@ -128,7 +125,7 @@ by Gabourey Sidibe
     * Life After Death By Damien Echolss
 
   21. **A comic by an LGBTQIA creator**
-    * Nimona by Noelle Stevenson
+    * ✔ Nimona by Noelle Stevenson
 
   22. **A children’s or middle grade book (not YA) that has won a diversity award since 2009**
     * ✔ This category is basically where most of our son's books fit in.
@@ -140,7 +137,6 @@ by Gabourey Sidibe
   24. **A collection of poetry published since 2014**
     * Night Sky with Exit Wounds by Ocean Vuong
     * ✔ Blackbird Song by Randy Lundy
-    * ✔ The Sun and Her Flowers | Paperback
-Rupi Kaur
+    * ✔ The Sun and Her Flowers by Rupi Kaur
     * ✔ a place called No Homeland by Kai Cheng Thom
     * ✔ Good Bones  

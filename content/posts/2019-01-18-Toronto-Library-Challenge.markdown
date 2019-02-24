@@ -22,6 +22,7 @@ The Toronto Public Library is also doing a [Reading Challenge](https://tpl.ca/re
 4. A book set in Toronto
   * Fauna by Alissa York
   * Scarborough by Catherine Hernandez
+  * ✔ Soucouyant by David John Chariandy
 5. A book by an author in a visible minority
   * ✔ An Extraordinary Union by Alyssa Cole
   * ✔ Heartberries by Terese Marie Mailhot
@@ -33,6 +34,7 @@ The Toronto Public Library is also doing a [Reading Challenge](https://tpl.ca/re
    Series by Sherry Thomas
   * ✔ Red: A Haida Manga by Michael Nicoll Yahgulanaas
   * ✔ The Unkindness of Ghosts - by Rivers Solomon
+  * ✔ Soucouyant by David John Chariandy
 6. A book by an LGBTQ+ author
   * Nimona by Noelle Stevenson
   * I’ve Got a Time Bomb by Sybil lamb
@@ -44,7 +46,6 @@ The Toronto Public Library is also doing a [Reading Challenge](https://tpl.ca/re
   * ✔ Heartberries by Terese Marie Mailhot
   * The Psychopath Inside: A Neuroscientist’s Personal Journey into the Dark Side of the Brain by James H. Fallon
   * Too Loud, Too Bright, Too Fast, Too Tight: What to Do If You Are Sensory Defensive in an Overstimulating World by Sharon Heller
-  * The Kiss Quotient by Helen Hoang (fiction about a neurodiverse character by a neurodiverse woman authour.)
 8. A non-prose book
   * ✔ The Poet X by Elizabeth Acevedo
 9. A book in translation
@@ -52,31 +53,34 @@ The Toronto Public Library is also doing a [Reading Challenge](https://tpl.ca/re
 10. A book on a topic you know nothing about
   * ✔ What you are getting wrong about Appalachia by Elizabeth Catte
   * ✔ Chernobyl by Serhii Plokhy
-  * We Regret to inform you we will be killed tomorrow with our families
+  * ✔ We Regret to inform you we will be killed tomorrow with our families
 11. A book you’ve always meant to read
   * ✔ Darkness by Bharati Mukherjee
       * in university my Sanskrit professor recommended I read this book, and I have always meant to.
 12. A book that has been banned or challenged
-  *
+  * ✔  
 13. A book that has been adapted into a movie or show
   * ✔ Where did you go Bernadette by Maria Semple
+  * ✔ Hideous Kinky by Esther Freud
 14. A book by an author with the same initials as you
   * ✔ Feed by Mira Grant
 ADVANCED
-
 1. A book by an author with a disability
-  * On the Edge of Gone by Corinne Duyvis
+  * ✔ On the Edge of Gone by Corinne Duyvis
+  * ✔ The Kiss Quotient by Helen Hoang (fiction about a neurodiverse character by a neurodiverse woman authour.)
 2. A book about being a newcomer, refugee or immigrant
   * ✔ Descent into Darkness by Edem Awumey
+  * ✔ Soucouyant by  
 3. A book you should have read in school, but didn’t
   * Another struggle. I read every assigned book or reeeeealllly don't want to.
 4. A book you previously tried to read and gave up on
-  * The Lucifer Effect: Understanding How Good People Turn Evil by Philip G. Zimbardo
+  *
 5. A book set in a country you’d like to visit
-  * We regret to inform you that tomorrow we will be killed with our families by Philip Gourevitch
+  * ✔ We regret to inform you that tomorrow we will be killed with our families by Philip Gourevitch
+  * Road Trip Rwanda: A Journey Into the New Heart of Africa by Will Ferguson
+  * ✔ Where did you go Bernadette
 6. Two books with the same/very similar titles
-  * Forever, Pete Hamill and Forever, Judy Blume
-  * Vox and Vox
+  * Vox by Christina Dalcher (done) and Vox
 7. A book from our [First & Best](https://kids.tpl.ca/ready-for-reading/books/booklist/first-and-best) lists
   * ✔ Counting in Mi’kmaw/Mawkiljemk Mi'kmawiktuk by Loretta Gould
   * ✔ Square by Mac Barnett
@@ -85,9 +89,12 @@ ADVANCED
   * Drop Dead by Lorna Poplak
   * The Toronto book of the dead by adam bunch
   * Scarborough by Catherine Hernandez
+  * Excessive force : Toronto's fight to reform city policing by Mukherjee, Alok,
 9. A book from [Read Indigenous](https://www.torontopubliclibrary.ca/books-video-music/books/booklists/read-indigenous.jsp)
-  * 
+  * Kuei My Friend - Deni Ellis Béchard
+  * Love beyond body, space, and time : an indigenous LGBT sci-fi anthology by Hope Nicholson
+  * Seven Fallen Feathers by Tanya Tagaq
 10. A book from [The List: Great Reads for Youth](https://www.torontopubliclibrary.ca/teens/the-list.jsp)
   *
 11. A book that’s related to the Periodic Table of Elements
-  *
+  * The Elements of Cooking - Michael Ruhlman, Anthony Bourdain
