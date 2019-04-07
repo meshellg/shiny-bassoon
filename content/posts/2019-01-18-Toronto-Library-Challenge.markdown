@@ -17,6 +17,7 @@ The Toronto Public Library is also doing a [Reading Challenge](https://tpl.ca/re
 2. A graphic novel
   * ✔ Red: A Haida Manga by Michael Nicoll Yahgulanaas
   * Nimona
+  * ✔ Persepolis by Marjane Satrapi
 3. A book from a Canadian award-winning author
   * ✔ Decent into the Night by Edem Awumey
 4. A book set in Toronto
@@ -58,19 +59,21 @@ The Toronto Public Library is also doing a [Reading Challenge](https://tpl.ca/re
   * ✔ Darkness by Bharati Mukherjee
       * in university my Sanskrit professor recommended I read this book, and I have always meant to.
 12. A book that has been banned or challenged
-  * ✔  
+  * ✔  Persepolis by Marjane Satrapi
+  * The Kite Runner
 13. A book that has been adapted into a movie or show
   * ✔ Where did you go Bernadette by Maria Semple
   * ✔ Hideous Kinky by Esther Freud
+  * ✔ Persepolis by Marjane Satrapi
 14. A book by an author with the same initials as you
   * ✔ Feed by Mira Grant
 ADVANCED
 1. A book by an author with a disability
   * ✔ On the Edge of Gone by Corinne Duyvis
-  * ✔ The Kiss Quotient by Helen Hoang (fiction about a neurodiverse character by a neurodiverse woman authour.)
+  * ✔ The Kiss Quotient by Helen Hoang
 2. A book about being a newcomer, refugee or immigrant
   * ✔ Descent into Darkness by Edem Awumey
-  * ✔ Soucouyant by  
+  * ✔ Soucouyant by David  
 3. A book you should have read in school, but didn’t
   * Another struggle. I read every assigned book or reeeeealllly don't want to.
 4. A book you previously tried to read and gave up on
@@ -80,16 +83,17 @@ ADVANCED
   * Road Trip Rwanda: A Journey Into the New Heart of Africa by Will Ferguson
   * ✔ Where did you go Bernadette
 6. Two books with the same/very similar titles
-  * Vox by Christina Dalcher (done) and Vox
+  * ✔ Vox by Christina Dalcher (done) and Vox by
 7. A book from our [First & Best](https://kids.tpl.ca/ready-for-reading/books/booklist/first-and-best) lists
   * ✔ Counting in Mi’kmaw/Mawkiljemk Mi'kmawiktuk by Loretta Gould
   * ✔ Square by Mac Barnett
 8. A book by an [eh List](https://account.torontopubliclibrary.ca/shared/books-by-eh-list-writers/8rxRVFbbr1k1AO29ZZ09pvGCrIDUkHjUISXnsqkSoUI2VtbYzz) writer
-  * The Marrow - Thieves by Cherie Dimaline
+  * The Marrow Thieves by Cherie Dimaline
   * Drop Dead by Lorna Poplak
-  * The Toronto book of the dead by adam bunch
+  * The Toronto book of the Dead by adam bunch
   * Scarborough by Catherine Hernandez
   * Excessive force : Toronto's fight to reform city policing by Mukherjee, Alok,
+  * ✔ Washington Black by Esi Edugyan
 9. A book from [Read Indigenous](https://www.torontopubliclibrary.ca/books-video-music/books/booklists/read-indigenous.jsp)
   * Kuei My Friend - Deni Ellis Béchard
   * Love beyond body, space, and time : an indigenous LGBT sci-fi anthology by Hope Nicholson

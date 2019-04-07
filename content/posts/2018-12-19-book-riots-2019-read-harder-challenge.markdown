@@ -42,7 +42,7 @@ I am lucky that most of these are available from the Toronto Public Library, and
 
   3. **A book by a woman and/or AOC (Authour of Colour) that won a literary award in 2018**
     * ✔ Decent into the Night by Edem Awumey (Winner of the [Governor Generals Literary Award](https://ggbooks.ca/descent-into-night), written in French by a male authour of colour and translated by a woman.)
-    * Washington Black by Esi Edugyan (winner of the 2018 [Giller Prize](https://scotiabankgillerprize.ca/esi-dugyan-winner-2018-scotiabank-giller-prize/), Esi is also a woman authour of colour.)
+    * ✔ Washington Black by Esi Edugyan (winner of the 2018 [Giller Prize](https://scotiabankgillerprize.ca/esi-dugyan-winner-2018-scotiabank-giller-prize/), Esi is also a woman authour of colour.)
 
   4. **A humour book**
     * ✔ This Is Just My Face: Try Not to Stare
@@ -77,7 +77,6 @@ by Gabourey Sidibe
     * ✔ Decent into the Night by Edem Awumey (Winner of the [Governor Generals Literary Award](https://ggbooks.ca/descent-into-night), written in French and translated by Phyllis Aronoff & Howard Scott.)
     * Sanaaq by Mitiarjuk Nappaaluk (written in inuktitut, translated Bernard Saladin d’Anglure)
     * The Life-Changing Manga of Tidying Up: A Magical Story. by Marie Kondo and Yuka Uramoto, trans. from the Japanese by Cathy Hirano
-    * Visitation by Jenny Erpenbeck, Susan Bernofsky (Translator)
 
   11. **A book of manga**
     * The Life-Changing Manga of Tidying Up: A Magical Story. by Marie Kondo and Yuka Uramoto, trans. from the Japanese by Cathy Hirano
@@ -89,9 +88,9 @@ by Gabourey Sidibe
     * Visitation by Jenny Erpenbeck, Susan Bernofsky (Translator)
 
   13. **A book by or about someone that identifies as neurodiverse**
-    * The Psychopath Inside: A Neuroscientist's Personal Journey into the Dark Side of the Brain by James H. Fallon
+    * ✔ The Psychopath Inside: A Neuroscientist's Personal Journey into the Dark Side of the Brain by James H. Fallon
     * Too Loud, Too Bright, Too Fast, Too Tight: What to Do If You Are Sensory Defensive in an Overstimulating World by Sharon Heller
-    * The Kiss Quotient by Helen Hoang (fiction about a neurodiverse character by a neurodiverse woman authour.)
+    * ✔ The Kiss Quotient by Helen Hoang (fiction about a neurodiverse character by a neurodiverse woman authour.)
     * ✔ Heartberries by Terese Marie Mailhot
 
   14. **A cozy mystery**
@@ -118,7 +117,7 @@ by Gabourey Sidibe
     * ✔ An Unkindness of Ghosts - Rivers Solomon
 
   19. **A book of nonviolent true crime**
-    * Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou
+    * ✔ Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou
 
   20. **A book written in prison**
     * The House of the Dead by Dostoevsky
@@ -135,7 +134,7 @@ by Gabourey Sidibe
     *  The Summer We Got Free
 
   24. **A collection of poetry published since 2014**
-    * Night Sky with Exit Wounds by Ocean Vuong
+    * ✔ Night Sky with Exit Wounds by Ocean Vuong
     * ✔ Blackbird Song by Randy Lundy
     * ✔ The Sun and Her Flowers by Rupi Kaur
     * ✔ a place called No Homeland by Kai Cheng Thom
