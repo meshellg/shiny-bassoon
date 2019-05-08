@@ -87,7 +87,7 @@ ADVANCED
   * ✔ Crazy Rich Asians by Kevin Kwan (Singapore)
   * An African in Greenland (Greenland)
 6. Two books with the same/very similar titles
-  * ✔ Vox by Christina Dalcher (done) and Vox by
+  * ✔ Vox by Christina Dalcher (done) and Vox by Nicholson Baker  
 7. A book from our [First & Best](https://kids.tpl.ca/ready-for-reading/books/booklist/first-and-best) lists
   * ✔ Counting in Mi’kmaw/Mawkiljemk Mi'kmawiktuk by Loretta Gould
   * ✔ Square by Mac Barnett
