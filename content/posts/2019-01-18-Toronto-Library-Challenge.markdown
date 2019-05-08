@@ -80,7 +80,7 @@ ADVANCED
 3. A book you should have read in school, but didn’t
   * ✔ Catcher in the Rye by J.D. Salinger (So I wrote a book report on this book, and did not read the book. Now you all know. SorryNotSorry Mr. Hamilton.)
 4. A book you previously tried to read and gave up on
-  *
+  * ✔ Democracy in Chains: The Deep History of the Radical Right's Stealth Plan for America by Nancy MacLean (not for lack of interest or importance, but it was just so depressing I had to put it away for at least half a year.)
 5. A book set in a country you’d like to visit
   * ✔ We regret to inform you that tomorrow we will be killed with our families by Philip Gourevitch (Rawanda)
   * ✔ Where did you go Bernadette by Maria Semple
@@ -94,6 +94,9 @@ ADVANCED
 8. A book by an [eh List](https://account.torontopubliclibrary.ca/shared/books-by-eh-list-writers/8rxRVFbbr1k1AO29ZZ09pvGCrIDUkHjUISXnsqkSoUI2VtbYzz) writer
   * ✔ The Marrow Thieves by Cherie Dimaline
   * ✔ Washington Black by Esi Edugyan
+  * ✔ Soucouyant by David Chariandy
+  * ✔ Brother by David Chariandy
+  * ✔ I've been meaning to tell you: a letter to my daughter by David Chariandy
   * Drop Dead by Lorna Poplak
   * The Toronto book of the Dead by Adam Bunch
   * Excessive force : Toronto's fight to reform city policing by Mukherjee, Alok,
@@ -107,4 +110,5 @@ ADVANCED
   * ✔ A thousand beginnings and endings edited by Ellen Schreiber
   * Dry
 11. A book that’s related to the Periodic Table of Elements
-  * The Elements of Cooking - Michael Ruhlman, Anthony Bourdain
+  * ✔ The Elements of Cooking - Michael Ruhlman, Anthony Bourdain
+  * The periodic table by Levi, Primo.
