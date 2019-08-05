@@ -51,12 +51,11 @@ by Gabourey Sidibe
 
   5. **A book by a journalist or about journalism**
     * ✔ They Can't Kill Us All: The Story of Black Lives Matter by Wesley Lowery a journalist with the Washington Post
-    * Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou
+    * ✔  Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou
     * ✔ We regret to inform you that tomorrow we will be killed with our families by  Philip Gourevitch
 
   6. **A book by an Authour of Colour set in or about space**
     * Dawn by Octavia Butler
-      * I've been working through the work of Octavia Butler, because it is all excellent, so this one was inevitable, but fits the category.
     * ✔ An Unkindness of Ghosts by Rivers Solomon
 
   7. **An [#ownvoices](http://www.corinneduyvis.net/ownvoices/) book set in Mexico or Central America**

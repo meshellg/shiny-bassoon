@@ -108,7 +108,7 @@ ADVANCED
 10. A book from [The List: Great Reads for Youth](https://www.torontopubliclibrary.ca/teens/the-list.jsp)
   * ✔ The Poet X
   * ✔ A thousand beginnings and endings edited by Ellen Schreiber
-  * Dry
+  * ✔  Dry
 11. A book that’s related to the Periodic Table of Elements
   * ✔ The Elements of Cooking - Michael Ruhlman, Anthony Bourdain
   * The periodic table by Levi, Primo.
