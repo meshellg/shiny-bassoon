@@ -75,10 +75,10 @@ by Gabourey Sidibe
   10. **A translated book written by and/or translated by a woman**
     * ✔ Decent into the Night by Edem Awumey (Winner of the [Governor Generals Literary Award](https://ggbooks.ca/descent-into-night), written in French and translated by Phyllis Aronoff & Howard Scott.)
     * Sanaaq by Mitiarjuk Nappaaluk (written in inuktitut, translated Bernard Saladin d’Anglure)
-    * The Life-Changing Manga of Tidying Up: A Magical Story. by Marie Kondo and Yuka Uramoto, trans. from the Japanese by Cathy Hirano
+    * ✔ The Life-Changing Manga of Tidying Up: A Magical Story. by Marie Kondo and Yuka Uramoto, trans. from the Japanese by Cathy Hirano
 
   11. **A book of manga**
-    * The Life-Changing Manga of Tidying Up: A Magical Story. by Marie Kondo and Yuka Uramoto, trans. from the Japanese by Cathy Hirano
+    * ✔ The Life-Changing Manga of Tidying Up: A Magical Story. by Marie Kondo and Yuka Uramoto, trans. from the Japanese by Cathy Hirano
     * ✔ Library Wars by Hiro Arikawa
     * ✔ Red: A Haida Manga by Michael Nicoll Yahgulanaas
 
