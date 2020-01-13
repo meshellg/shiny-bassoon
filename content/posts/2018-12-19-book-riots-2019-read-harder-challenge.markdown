@@ -29,7 +29,7 @@ I am lucky that most of these are available from the Toronto Public Library, and
 
 ## **Read Harder 2019**
 
-  1. ** An epistolary novel or collection of letters**
+  1. **An epistolary novel or collection of letters**
     * I capture the Castle by Dodie Smith
     * Charing Cross Road by Helene Hanff
     * ✔ Where did you go Bernadette by Maria Semple
@@ -65,7 +65,7 @@ by Gabourey Sidibe
     * Where We Once Belonged by Sia Figiel
     * Pounamu, Pounamu by Witi Ihimaera (Maori New Zealand)
     * The Bone People by Keri Hulme (New Zealand)
-    * Terra Nullius by Claire G. Coleman (Western Australia. She identifies with the South Coast Noongar people.)
+    * ✔ Terra Nullius by Claire G. Coleman (Western Australia. She identifies with the South Coast Noongar people.)
 
   9. **A book published prior to January 1, 2019, with fewer than 100 reviews on Goodreads**
     * Sanaaq by Mitiarjuk Nappaaluk, translated Bernard Saladin d’Anglure
