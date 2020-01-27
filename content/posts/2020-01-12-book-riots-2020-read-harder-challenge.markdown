@@ -29,15 +29,15 @@ You can see my collection of 2020 ReadHarder books on GoodReads, arranged in no 
 2. **Read a retelling of a classic of the canon, fairytale, or myth by an author of color**
   * Boy, Snow, Bird by Helen Oyeyemi
 3. **Read a mystery where the victim(s) is not a woman**
-  * 	Iced in Paradise: A Leilani Santiago Hawai'i Mystery by Naomi Hirahara
+  * Iced in Paradise: A Leilani Santiago Hawai'i Mystery by Naomi Hirahara
 4. **Read a graphic memoir**
   * ✔ Belonging: A German Reckons with History and Home - Nora Krug
-  * Palestine by Joseph Sacco
+  * ✔ Palestine by Joseph Sacco
 5. **Read a book about a natural disaster**
   * Haiti: After the Earthquake by Paul Farmer (Non-fiction)
   * We Speak in Storms by Natalie Lund (Fiction)
 6. **Read a play by an author of color and/or queer author**
-  * The Amen Corner by James Baldwin
+  *  ✔ The Amen Corner by James Baldwin
 7. **Read a historical fiction novel not set in WWII**
   * The Underground Railroad by Colson Whitehead
 8. **Read an audiobook of poetry**
@@ -49,20 +49,22 @@ You can see my collection of 2020 ReadHarder books on GoodReads, arranged in no 
   * The Round House by Louise Erdrich
 11. **Read a debut novel by a queer author**
   * ✔ Small Beauty - jia qing wilson-yang
-  * How we Fight for our Lives by Saeed Jones
+  * How We Fight for our Lives by Saeed Jones
 12. **Read a memoir by someone from a religious tradition (or lack of religious tradition) that is not your own**
-  * Eagle's Heart by Alyssa Cole
+  * Laughing all the way to the mosque by Zarqa Nawaz
+  * I am Malala - Malala Yousafzai
+  * Daughter of Gloriavale: My life in a religious cult by Lilia Tarawa
 13. **Read a food book about a cuisine you’ve never tried before**
-I eat a lot of different cuisines, but I've been meaning to read The Cooking Gene for a while.
+I eat a lot of different cuisines), but I've been meaning to finish reading The Cooking Gene for a while.
   * The Cooking Gene: A Journey Through African American Culinary History in the Old South by Micheal W. Twitty.
 14. **Read a romance starring a single parent**
-* Fumbled by Alexa Martin
-* The Sweet Gum Tree by Katherine Allred
+  * Fumbled by Alexa Martin
+  * The Sweet Gum Tree by Katherine Allred
 15. **Read a book about climate change**
-* The Migration by Helen Marshall
-* Greenwood by Michael Christie
+  * The Migration by Helen Marshall
+  * Greenwood by Michael Christie
 16. **Read a doorstopper (over 500 pages) published after 1950, written by a woman**
-  * Invisible Women by Caroline Criado-Pérez
+  *  ✔ Invisible Women by Caroline Criado-Pérez
       I started reading and listening to this book last year, and it's massive, but brilliant and incredibly frustrating. I'm looking forward to actually finishing it. It's also a book I actually own.
 17. **Read a sci-fi/fantasy novella (under 120 pages)**
   * to be taught if fortunate - Becky Chambers
@@ -75,10 +77,13 @@ I eat a lot of different cuisines, but I've been meaning to read The Cooking Gen
 19. **Read a book by or about a refugee**
  * No Friend but the Mountains - Behrouz Boochani
 20. **Read a middle grade book that doesn’t take place in the U.S. or the UK**
-  * Akata Witch by Nnedi Okorafor 
+  * Akata Witch by Nnedi Okorafor
 21. **Read a book with a main character or protagonist with a disability (fiction or non)**
+  * Beast of Burden: Animal and Disability
 22. **Read a horror book published by an indie press**
+  * Taaqtumi: An Anthology of Arctic Horror Stories
 23. **Read an edition of a literary magazine (digital or physical)**
 24. **Read a book in any genre by a Native, First Nations, or Indigenous author**
-  * ✔ Empire of Wild by Cherie D
+  * ✔ Empire of Wild by Cherie Dimaline
   * #NotYourPrinces by Lisa Charleyboy
+  * Sanaaq - Mitiarjuk Nappaaluk
