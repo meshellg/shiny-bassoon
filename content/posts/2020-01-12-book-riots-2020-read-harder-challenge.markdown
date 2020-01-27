@@ -55,7 +55,6 @@ You can see my collection of 2020 ReadHarder books on GoodReads, arranged in no 
   * I am Malala - Malala Yousafzai
   * Daughter of Gloriavale: My life in a religious cult by Lilia Tarawa
 13. **Read a food book about a cuisine you’ve never tried before**
-I eat a lot of different cuisines), but I've been meaning to finish reading The Cooking Gene for a while.
   * The Cooking Gene: A Journey Through African American Culinary History in the Old South by Micheal W. Twitty.
 14. **Read a romance starring a single parent**
   * Fumbled by Alexa Martin
@@ -65,17 +64,16 @@ I eat a lot of different cuisines), but I've been meaning to finish reading The 
   * Greenwood by Michael Christie
 16. **Read a doorstopper (over 500 pages) published after 1950, written by a woman**
   *  ✔ Invisible Women by Caroline Criado-Pérez
-      I started reading and listening to this book last year, and it's massive, but brilliant and incredibly frustrating. I'm looking forward to actually finishing it. It's also a book I actually own.
+      I started reading and listening to this book last year, and it's massive, but brilliant and incredibly frustrating. I now realize it's not over 500 pages but it's seriously massive, and I'm just going to give this one to myself.
 17. **Read a sci-fi/fantasy novella (under 120 pages)**
   * to be taught if fortunate - Becky Chambers
   * The Black God's Drums - P. Djèlí Clark
 18. **Read a picture book with a human main character from a marginalized community**
-  Most of our son's books fit in this category so there are lots that meet these requirements.
   * ✔ Queen of the Hannukah Dosas
   * ✔ Baby Loves the Five Senses: Hearing by Ruth Spiro and Irene Chen
   * Sulwe: Lupita Nyong'o, Vashti Harrison
 19. **Read a book by or about a refugee**
- * No Friend but the Mountains - Behrouz Boochani
+  * No Friend but the Mountains - Behrouz Boochani
 20. **Read a middle grade book that doesn’t take place in the U.S. or the UK**
   * Akata Witch by Nnedi Okorafor
 21. **Read a book with a main character or protagonist with a disability (fiction or non)**
