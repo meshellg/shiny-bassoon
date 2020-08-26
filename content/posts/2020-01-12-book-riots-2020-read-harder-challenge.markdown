@@ -49,15 +49,15 @@ You can see my collection of 2020 ReadHarder books on GoodReads, arranged in no 
   * The Round House by Louise Erdrich
 11. **Read a debut novel by a queer author**
   * ✔ Small Beauty - jia qing wilson-yang
-  * How We Fight for our Lives by Saeed Jones
 12. **Read a memoir by someone from a religious tradition (or lack of religious tradition) that is not your own**
   * Laughing all the way to the mosque by Zarqa Nawaz
   * I am Malala - Malala Yousafzai
   * Daughter of Gloriavale: My life in a religious cult by Lilia Tarawa
+  * ✔ We Have Always Been Here by Samra Habib
 13. **Read a food book about a cuisine you’ve never tried before**
   * The Cooking Gene: A Journey Through African American Culinary History in the Old South by Micheal W. Twitty.
 14. **Read a romance starring a single parent**
-  * Fumbled by Alexa Martin
+  * ✔ Fumbled by Alexa Martin
   * The Sweet Gum Tree by Katherine Allred
 15. **Read a book about climate change**
   * The Migration by Helen Marshall
@@ -66,21 +66,26 @@ You can see my collection of 2020 ReadHarder books on GoodReads, arranged in no 
   *  ✔ Invisible Women by Caroline Criado-Pérez
       I started reading and listening to this book last year, and it's massive, but brilliant and incredibly frustrating. I now realize it's not over 500 pages but it's seriously massive, and I'm just going to give this one to myself.
 17. **Read a sci-fi/fantasy novella (under 120 pages)**
-  * to be taught if fortunate - Becky Chambers
+  * ✔ To Be Taught if Fortunate - Becky Chambers
   * The Black God's Drums - P. Djèlí Clark
+  * ✔ All Systems Red by Martha Wells (first book in the murderbot diaries)
 18. **Read a picture book with a human main character from a marginalized community**
   * ✔ Queen of the Hannukah Dosas
   * ✔ Baby Loves the Five Senses: Hearing by Ruth Spiro and Irene Chen
-  * Sulwe: Lupita Nyong'o, Vashti Harrison
+  * ✔ Sulwe: Lupita Nyong'o, Vashti Harrison
 19. **Read a book by or about a refugee**
-  * No Friend but the Mountains - Behrouz Boochani
+  * ✔ No Friend but the Mountains - Behrouz Boochani
+  * ✔ We Have Always Been Here by Samra Habib
 20. **Read a middle grade book that doesn’t take place in the U.S. or the UK**
-  * Akata Witch by Nnedi Okorafor
+  * ✔ Akata Witch by Nnedi Okorafor (now that I've read this one, I have to read Akata Warrior!)
 21. **Read a book with a main character or protagonist with a disability (fiction or non)**
   * Beast of Burden: Animal and Disability
+  * ✔ Hello I Want to Die Please Fix Me by Anna Mehler Paperny
+  * ✔ Disfigured: On Fairy Tales, Disability, and Making Space by Amanda Leduc
 22. **Read a horror book published by an indie press**
   * Taaqtumi: An Anthology of Arctic Horror Stories
 23. **Read an edition of a literary magazine (digital or physical)**
+  *  ✔ Quill & Quire - March 2020, the Spring Kidlit Special, seemed perfect for me. I picked it up at the small press store in the Toronto Reference Library.
 24. **Read a book in any genre by a Native, First Nations, or Indigenous author**
   * ✔ Empire of Wild by Cherie Dimaline
   * #NotYourPrinces by Lisa Charleyboy
