@@ -13,7 +13,7 @@ I also realize that I wish I had posted my Alphabet activity as I went for kinde
 
 We have a combination of Build Your Library activities, Singapore Math, Khan Academy Kids, Wild Math, and
 
-So here is what's on the schedule, in no particular order, and we'll see what we get through, and follow up afterwards.  
+So here is what's on the schedule, in no particular order, and we'll see what we get through, and follow up afterwards:  
 
 - We're going to watch this video of someone reading Me on the Map: https://www.youtube.com/watch?v=SgA3P_KkdHU, this is kind of an awesome introductory geography activity where kids can see where they are in relation to the rest of the world, and how they fit.
 - Relatedly, we will do this activity from Playdoh to Plato - https://www.playdoughtoplato.com/me-on-the-map-craft/ which is generously provided as a printable, but I've modified ours to say province. (I also saw this great video on youtube for a more customizable DIY version, but I don't have the inclination to do it https://www.youtube.com/watch?v=SgA3P_KkdHU)
@@ -23,7 +23,7 @@ So here is what's on the schedule, in no particular order, and we'll see what we
 - A couple of pages from Singapore Math 1A, and a couple of activities of his choice from the Math section of Khan Academy.
 - Play a game (Valence or vegetable soup fraction game)
 
-**What did our day actually look like?**
+*What did our day actually look like?*
 - We did watch the video of Me on the Map, which led to looking at the GoogleEarth of the globe, down to our community.
 - We jumped around looking at different continents, which led nicely to the Me on the Map Craft. The nice thing about the craft is that it combines scissor skills with writing, while also demonstrating our position in the world clearly and in a tactile way.
 - We ended up reading Book 1 of The Tale of Despereaux which was to the end of Chapter 15, and probably would have gone on, if it hadn't been the perfect break for lunch.
