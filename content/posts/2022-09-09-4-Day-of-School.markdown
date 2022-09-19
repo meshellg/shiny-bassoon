@@ -31,8 +31,9 @@ Day four we are aiming to do the following:
 - We made the "small square" with an old pie box, and spent a very nice amount of time outside, looking at different things within the square and outside of it. Identifying four different mushrooms on the property, and added some great stuff to our nature journal. And also sorted and categorized some of the things we had found outside (flowers, mushrooms, pine cones, ferns.)
 - watched some of the Nature Journalling video and got some good ideas on what to add.
   - things like where/when, weather, wind speed, sunrise, sunset, moon phase, and how to organize a page.
-  - We drew some mushrooms. 
+  - We drew some mushrooms.
 - We did some basic wild math work with a pillowcase ten frame and flowers/rocks/ferns.
 - We read through the astronomy lab 1 sample, from Pandia Press.
 - And we talked about what was alive - and what makes something alive and some examples of what's alive out there. But we'll have to revisit the Natural World pages again - as they are quite dense. Understandable, but dense.
-- I suspect we will keep up with our evening Tale of Despereaux reading. It's such a fun story to read aloud.
+- We did the sorting activity.
+- We did not get to the Tale of Desperaux today, but I suspect we will read it on the weekend for fun.
