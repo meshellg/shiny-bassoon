@@ -1,20 +1,24 @@
 ---
 author: meshell
 comments: false
-date: 2022-09-21 09:37:26+00:00
+date: 2022-09-22 09:37:26+00:00
 layout: post
-title: 2022 - Day Something
+title: 2022 - Week 7
 category: homeschooling
 ---
 
-We focused a lot of nature study today which was good for both of us. There is something so spectacular about talking about potions and nature while a belted king fisher swoops down and then swoops away from our pond. He didn't know we were there - until he did and then it was time to go, time to go.
+**Week 7**
 
-Ideally we'd spend at least half of the day outside, but the inclination comes and goes, and it seems unnecessary to force it on the days the desire to be out is low. 
+I've found it kind of fascinating how much easier it is to start the day with a craft. It's maybe obvious to experienced educators, but having that point to pivot from is a great way to get into the "it's time for school mindset"
 
-We read more of the Tale of Desperaux, but someone is dragging their feet on it because they don't want it to be over. Secrets revealled. Regardless, I expect we will be finished soon enough.
+We have landed into a rhythm, but one that also doesn't feel too intense, but still is somewhat academically rigorous.
 
-I've been encouraging more practise with cutting things out, and it's been great. The skills are increasing with time and practise as one might expect - though the skills are developing in a short period of time, at least in part because the fine motor skills are already there to help make it work.
+We are using a combination of the following:
+- Torchlight 0,1 (General Curriculum)
+- BuildYourLibrary 0,1 (General Curriculum)
+- Curiosity Chronicals - Snapshots of Ancient History (History)
+- Beast Math Level 1 (Math)
+- Building Foundations for Scientific Understanding Vol 1 (Science)
+- Be Naturally Curious (Science Unit Studies)
 
-I'm waiting on doing a magnetism unit until we get our magnets in the mail.
-
-I had ordered a multiplication table from Staples a few weeks ago, and the poster is alot bigger than I expected, but we've been playing mulitplcation games lately, and it's been a lot of fun. Probably a bit big of a jump away from addition and subtraction, but it feels right at the moment.
+One of the things I've been considering is Science Connection through Inquiry, which is based on Building Foundations for Scientific Understanding, but I feel kind of weird using some thing that costs money, that's based on something else, when it doesn't look like the original authour is involved.
