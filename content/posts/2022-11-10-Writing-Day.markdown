@@ -7,7 +7,7 @@ title: 2022 -  Writing day
 category: homeschooling
 ---
 
-Reading has never been much of an issue over here. It happened pretty organically, and maybe in part because both of us adults read quite early as well.
+Reading has never been much of an issue over here. It happened pretty organically, and maybe in part because both of us adults read quite early as well, and also spend a lot of our free time reading too. We also read together quite a bit as well, and still do.
 
 But writing has been less of a natural thing - and the use of screens are definitely at fault, compounded by a lack of hand strength and a disinclination towards drawing or colouring. I don't know the source of it, but this year I wanted to work on making that less of a challenge.
 
@@ -26,4 +26,4 @@ One of the other things we've been doing is writing a nature journal, and while 
 
 Anyway, we've been working with the Grade 1 Handwriting without Tears workbook, and it's been very good. I am likely to pick up the teachers guide soon.
 
-Oh! and we did end up going out first thing in the morning to the pond, sadly/gladly, the over night temps did not reach freezing here so no ice puck. 
+Oh! and we did end up going out first thing in the morning to the pond, sadly/gladly, the over night temps did not reach freezing here so no ice puck.
