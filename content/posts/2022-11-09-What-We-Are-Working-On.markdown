@@ -18,4 +18,4 @@ No recaps, but today we're focusing on Mesopotamia which is Chapter 3 in Curiosi
 - [Khan Academy - Ancient Mesopotamia](https://www.khanacademy.org/humanities/world-history/world-history-beginnings/ancient-mesopotamia/v/ancient-mesopotamia)
 - We used this map to help identify the various important parts of the area, and [the kid also coloured a map of mesopotamia](https://www.worldhistory.org/image/169/map-of-the-fertile-crescent/)
 
-And finally, we did our nature journalling which led to some great conversations about properties of water (we found some ice!), pressure, atmosphere, the impact on the weather, and what the difference  between gravity and atmosopheric pressure is. 
+And finally, we did our nature journalling which led to some great conversations about properties of water (we found some ice in a metal bucket!), pressure, atmosphere, the impact on the weather, and what the difference  between gravity and atmosopheric pressure is.
